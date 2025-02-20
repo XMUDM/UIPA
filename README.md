@@ -1,5 +1,8 @@
 # UIPA
-This repository is the official implementation of "Joint User and Item Prototype Alignment for Cross-Platform Recommendation". In this paper, we propose a cross-platform recommendation framework based on **U**ser and **I**tem **P**rototype **A**lignment (**UIPA**). UIPA is a plug-and-play framework that can be applied to single-platform collaborative filtering backbones and simultaneously enhance performance on both platform. 
+This repository is the official implementation of "Joint User and Item Prototype Alignment for Cross-Platform Recommendation". In this paper, we propose a cross-platform recommendation framework based on **U**ser and **I**tem **P**rototype **A**lignment (**UIPA**) to solve the divergence in item space and user preference. UIPA is a plug-and-play framework that can be applied to single-platform collaborative filtering backbones and simultaneously enhance performance on both platform. 
+
+![The overall framework of UIPA](0_framework.png)
+<p style="text-align:center;">The overall framework of UIPA</p>
 
 
 ## 1 Download
